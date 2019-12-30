@@ -1,0 +1,6160 @@
+fileFormatVersion: 2
+guid: 6f86cd800c3423d4c9cfbf20047e7ea8
+timeCreated: 1499792742
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Escapetheinferno-5.8-07_0
+    21300002: Escapetheinferno-5.8-07_1
+    21300004: Escapetheinferno-5.8-07_2
+    21300006: Escapetheinferno-5.8-07_3
+    21300008: Escapetheinferno-5.8-07_4
+    21300010: Escapetheinferno-5.8-07_5
+    21300012: Escapetheinferno-5.8-07_7
+    21300014: Escapetheinferno-5.8-07_8
+    21300016: Escapetheinferno-5.8-07_9
+    21300018: Escapetheinferno-5.8-07_10
+    21300020: Escapetheinferno-5.8-07_11
+    21300022: Escapetheinferno-5.8-07_13
+    21300024: Escapetheinferno-5.8-07_14
+    21300026: Escapetheinferno-5.8-07_15
+    21300028: Escapetheinferno-5.8-07_16
+    21300030: Escapetheinferno-5.8-07_17
+    21300032: Escapetheinferno-5.8-07_18
+    21300034: Escapetheinferno-5.8-07_19
+    21300036: Escapetheinferno-5.8-07_20
+    21300038: Escapetheinferno-5.8-07_21
+    21300040: Escapetheinferno-5.8-07_22
+    21300042: Escapetheinferno-5.8-07_23
+    21300044: Escapetheinferno-5.8-07_24
+    21300046: Escapetheinferno-5.8-07_25
+    21300048: Escapetheinferno-5.8-07_26
+    21300050: Escapetheinferno-5.8-07_27
+    21300052: Escapetheinferno-5.8-07_28
+    21300054: Escapetheinferno-5.8-07_29
+    21300056: Escapetheinferno-5.8-07_30
+    21300058: Escapetheinferno-5.8-07_31
+    21300060: Escapetheinferno-5.8-07_32
+    21300062: Escapetheinferno-5.8-07_33
+    21300064: Escapetheinferno-5.8-07_34
+    21300066: Escapetheinferno-5.8-07_35
+    21300068: Escapetheinferno-5.8-07_36
+    21300070: Escapetheinferno-5.8-07_37
+    21300072: Escapetheinferno-5.8-07_38
+    21300074: Escapetheinferno-5.8-07_39
+    21300076: Escapetheinferno-5.8-07_40
+    21300078: Escapetheinferno-5.8-07_41
+    21300080: Escapetheinferno-5.8-07_42
+    21300082: Escapetheinferno-5.8-07_43
+    21300084: Escapetheinferno-5.8-07_44
+    21300086: Escapetheinferno-5.8-07_45
+    21300088: Escapetheinferno-5.8-07_46
+    21300090: Escapetheinferno-5.8-07_47
+    21300092: Escapetheinferno-5.8-07_48
+    21300094: Escapetheinferno-5.8-07_49
+    21300096: Escapetheinferno-5.8-07_50
+    21300098: Escapetheinferno-5.8-07_51
+    21300100: Escapetheinferno-5.8-07_52
+    21300102: Escapetheinferno-5.8-07_53
+    21300104: Escapetheinferno-5.8-07_54
+    21300106: Escapetheinferno-5.8-07_55
+    21300108: Escapetheinferno-5.8-07_56
+    21300110: Escapetheinferno-5.8-07_57
+    21300112: Escapetheinferno-5.8-07_58
+    21300114: Escapetheinferno-5.8-07_59
+    21300116: Escapetheinferno-5.8-07_60
+    21300118: Escapetheinferno-5.8-07_61
+    21300120: Escapetheinferno-5.8-07_62
+    21300122: Escapetheinferno-5.8-07_63
+    21300124: Escapetheinferno-5.8-07_64
+    21300126: Escapetheinferno-5.8-07_65
+    21300128: Escapetheinferno-5.8-07_66
+    21300130: Escapetheinferno-5.8-07_67
+    21300132: Escapetheinferno-5.8-07_68
+    21300134: vc
+    21300136: Escapetheinferno-5.8-07_70
+    21300138: Escapetheinferno-5.8-07_71
+    21300140: Escapetheinferno-5.8-07_72
+    21300142: Escapetheinferno-5.8-07_73
+    21300144: Escapetheinferno-5.8-07_74
+    21300146: Escapetheinferno-5.8-07_75
+    21300148: Escapetheinferno-5.8-07_76
+    21300150: Escapetheinferno-5.8-07_77
+    21300152: Escapetheinferno-5.8-07_78
+    21300154: Escapetheinferno-5.8-07_79
+    21300156: Escapetheinferno-5.8-07_80
+    21300158: Escapetheinferno-5.8-07_81
+    21300160: Escapetheinferno-5.8-07_82
+    21300162: Escapetheinferno-5.8-07_83
+    21300164: Escapetheinferno-5.8-07_84
+    21300166: Escapetheinferno-5.8-07_85
+    21300168: Escapetheinferno-5.8-07_86
+    21300170: Escapetheinferno-5.8-07_87
+    21300172: Escapetheinferno-5.8-07_88
+    21300174: Escapetheinferno-5.8-07_89
+    21300176: Escapetheinferno-5.8-07_90
+    21300178: Escapetheinferno-5.8-07_91
+    21300180: Escapetheinferno-5.8-07_92
+    21300182: Escapetheinferno-5.8-07_93
+    21300184: Escapetheinferno-5.8-07_94
+    21300186: Escapetheinferno-5.8-07_95
+    21300188: Escapetheinferno-5.8-07_96
+    21300190: Escapetheinferno-5.8-07_97
+    21300192: Escapetheinferno-5.8-07_98
+    21300194: Escapetheinferno-5.8-07_99
+    21300196: Escapetheinferno-5.8-07_100
+    21300198: Escapetheinferno-5.8-07_101
+    21300200: Escapetheinferno-5.8-07_102
+    21300202: Escapetheinferno-5.8-07_103
+    21300204: Escapetheinferno-5.8-07_104
+    21300206: Escapetheinferno-5.8-07_105
+    21300208: Escapetheinferno-5.8-07_106
+    21300210: Escapetheinferno-5.8-07_107
+    21300212: Escapetheinferno-5.8-07_108
+    21300214: Escapetheinferno-5.8-07_109
+    21300216: Escapetheinferno-5.8-07_110
+    21300218: Escapetheinferno-5.8-07_111
+    21300220: Escapetheinferno-5.8-07_112
+    21300222: Escapetheinferno-5.8-07_113
+    21300224: Escapetheinferno-5.8-07_114
+    21300226: Escapetheinferno-5.8-07_115
+    21300228: Escapetheinferno-5.8-07_116
+    21300230: Escapetheinferno-5.8-07_117
+    21300232: Escapetheinferno-5.8-07_118
+    21300234: Escapetheinferno-5.8-07_119
+    21300236: Escapetheinferno-5.8-07_120
+    21300238: Escapetheinferno-5.8-07_121
+    21300240: Escapetheinferno-5.8-07_122
+    21300242: Escapetheinferno-5.8-07_123
+    21300244: Escapetheinferno-5.8-07_124
+    21300246: Escapetheinferno-5.8-07_125
+    21300248: Escapetheinferno-5.8-07_126
+    21300250: Escapetheinferno-5.8-07_127
+    21300252: Escapetheinferno-5.8-07_128
+    21300254: Escapetheinferno-5.8-07_129
+    21300256: Escapetheinferno-5.8-07_130
+    21300258: Escapetheinferno-5.8-07_131
+    21300260: Escapetheinferno-5.8-07_132
+    21300262: Escapetheinferno-5.8-07_133
+    21300264: Escapetheinferno-5.8-07_134
+    21300266: Escapetheinferno-5.8-07_135
+    21300268: Escapetheinferno-5.8-07_136
+    21300270: Escapetheinferno-5.8-07_137
+    21300272: Escapetheinferno-5.8-07_138
+    21300274: Escapetheinferno-5.8-07_139
+    21300276: Escapetheinferno-5.8-07_140
+    21300278: Escapetheinferno-5.8-07_141
+    21300280: Escapetheinferno-5.8-07_142
+    21300282: Escapetheinferno-5.8-07_143
+    21300284: Escapetheinferno-5.8-07_144
+    21300286: Escapetheinferno-5.8-07_145
+    21300288: Escapetheinferno-5.8-07_146
+    21300290: Escapetheinferno-5.8-07_147
+    21300292: Escapetheinferno-5.8-07_148
+    21300294: Escapetheinferno-5.8-07_149
+    21300296: Escapetheinferno-5.8-07_150
+    21300298: Escapetheinferno-5.8-07_151
+    21300300: Escapetheinferno-5.8-07_152
+    21300302: Escapetheinferno-5.8-07_153
+    21300304: Escapetheinferno-5.8-07_154
+    21300306: Escapetheinferno-5.8-07_155
+    21300308: Escapetheinferno-5.8-07_156
+    21300310: Escapetheinferno-5.8-07_157
+    21300312: Escapetheinferno-5.8-07_158
+    21300314: Escapetheinferno-5.8-07_159
+    21300316: Escapetheinferno-5.8-07_160
+    21300318: Escapetheinferno-5.8-07_161
+    21300320: Escapetheinferno-5.8-07_162
+    21300322: Escapetheinferno-5.8-07_163
+    21300324: Escapetheinferno-5.8-07_164
+    21300326: Escapetheinferno-5.8-07_165
+    21300328: Escapetheinferno-5.8-07_166
+    21300330: Escapetheinferno-5.8-07_167
+    21300332: Escapetheinferno-5.8-07_168
+    21300334: Escapetheinferno-5.8-07_169
+    21300336: Escapetheinferno-5.8-07_170
+    21300338: Escapetheinferno-5.8-07_171
+    21300340: Escapetheinferno-5.8-07_172
+    21300342: Escapetheinferno-5.8-07_173
+    21300344: Escapetheinferno-5.8-07_174
+    21300346: Escapetheinferno-5.8-07_175
+    21300348: Escapetheinferno-5.8-07_176
+    21300350: Escapetheinferno-5.8-07_177
+    21300352: Escapetheinferno-5.8-07_178
+    21300354: Escapetheinferno-5.8-07_179
+    21300356: Escapetheinferno-5.8-07_180
+    21300358: Escapetheinferno-5.8-07_181
+    21300360: Escapetheinferno-5.8-07_182
+    21300362: Escapetheinferno-5.8-07_183
+    21300364: Escapetheinferno-5.8-07_184
+    21300366: Escapetheinferno-5.8-07_185
+    21300368: Escapetheinferno-5.8-07_186
+    21300370: Escapetheinferno-5.8-07_187
+    21300372: Escapetheinferno-5.8-07_188
+    21300374: Escapetheinferno-5.8-07_189
+    21300376: Escapetheinferno-5.8-07_190
+    21300378: Escapetheinferno-5.8-07_191
+    21300380: Escapetheinferno-5.8-07_192
+    21300382: Escapetheinferno-5.8-07_193
+    21300384: Escapetheinferno-5.8-07_194
+    21300386: Escapetheinferno-5.8-07_195
+    21300388: Escapetheinferno-5.8-07_196
+    21300390: Escapetheinferno-5.8-07_197
+    21300392: Escapetheinferno-5.8-07_198
+    21300394: Escapetheinferno-5.8-07_199
+    21300396: Escapetheinferno-5.8-07_200
+    21300398: Escapetheinferno-5.8-07_201
+    21300400: Escapetheinferno-5.8-07_202
+    21300402: Escapetheinferno-5.8-07_203
+    21300404: Escapetheinferno-5.8-07_204
+    21300406: Escapetheinferno-5.8-07_205
+    21300408: Escapetheinferno-5.8-07_206
+    21300410: Escapetheinferno-5.8-07_207
+    21300412: Escapetheinferno-5.8-07_208
+    21300414: Escapetheinferno-5.8-07_209
+    21300416: Escapetheinferno-5.8-07_210
+    21300418: Escapetheinferno-5.8-07_211
+    21300420: Escapetheinferno-5.8-07_212
+    21300422: Escapetheinferno-5.8-07_213
+    21300424: Escapetheinferno-5.8-07_214
+    21300426: Escapetheinferno-5.8-07_215
+    21300428: Escapetheinferno-5.8-07_216
+    21300430: Escapetheinferno-5.8-07_217
+    21300432: Escapetheinferno-5.8-07_218
+    21300434: Escapetheinferno-5.8-07_219
+    21300436: Escapetheinferno-5.8-07_220
+    21300438: Escapetheinferno-5.8-07_221
+    21300440: Escapetheinferno-5.8-07_222
+    21300442: Escapetheinferno-5.8-07_223
+    21300444: Escapetheinferno-5.8-07_224
+    21300446: Escapetheinferno-5.8-07_225
+    21300448: Escapetheinferno-5.8-07_226
+    21300450: Escapetheinferno-5.8-07_227
+    21300452: Escapetheinferno-5.8-07_228
+    21300454: Escapetheinferno-5.8-07_229
+    21300456: Escapetheinferno-5.8-07_230
+    21300458: Escapetheinferno-5.8-07_231
+    21300460: Escapetheinferno-5.8-07_232
+    21300462: Escapetheinferno-5.8-07_233
+    21300464: Escapetheinferno-5.8-07_234
+    21300466: Escapetheinferno-5.8-07_235
+    21300468: Escapetheinferno-5.8-07_236
+    21300470: Escapetheinferno-5.8-07_237
+    21300472: Escapetheinferno-5.8-07_238
+    21300474: Escapetheinferno-5.8-07_239
+    21300476: Escapetheinferno-5.8-07_240
+    21300478: Escapetheinferno-5.8-07_241
+    21300480: Escapetheinferno-5.8-07_242
+    21300482: Escapetheinferno-5.8-07_243
+    21300484: Escapetheinferno-5.8-07_244
+    21300486: Escapetheinferno-5.8-07_245
+    21300488: Escapetheinferno-5.8-07_246
+    21300490: Escapetheinferno-5.8-07_247
+    21300492: Escapetheinferno-5.8-07_248
+    21300494: Escapetheinferno-5.8-07_249
+    21300496: Escapetheinferno-5.8-07_250
+    21300498: Escapetheinferno-5.8-07_251
+    21300500: Escapetheinferno-5.8-07_252
+    21300502: Escapetheinferno-5.8-07_253
+    21300504: Escapetheinferno-5.8-07_254
+    21300506: Escapetheinferno-5.8-07_255
+    21300508: Escapetheinferno-5.8-07_256
+    21300510: Escapetheinferno-5.8-07_257
+    21300512: Escapetheinferno-5.8-07_258
+    21300514: Escapetheinferno-5.8-07_259
+    21300516: Escapetheinferno-5.8-07_260
+    21300518: Escapetheinferno-5.8-07_261
+    21300520: Escapetheinferno-5.8-07_262
+    21300522: Escapetheinferno-5.8-07_263
+    21300524: Escapetheinferno-5.8-07_264
+    21300526: Escapetheinferno-5.8-07_265
+    21300528: Escapetheinferno-5.8-07_266
+    21300530: Escapetheinferno-5.8-07_267
+    21300532: Escapetheinferno-5.8-07_268
+    21300534: Escapetheinferno-5.8-07_269
+    21300536: Escapetheinferno-5.8-07_270
+    21300538: Escapetheinferno-5.8-07_271
+    21300540: Escapetheinferno-5.8-07_272
+    21300542: Escapetheinferno-5.8-07_273
+    21300544: Escapetheinferno-5.8-07_274
+    21300546: Escapetheinferno-5.8-07_275
+    21300548: Escapetheinferno-5.8-07_276
+    21300550: Escapetheinferno-5.8-07_277
+    21300552: Escapetheinferno-5.8-07_278
+    21300554: Escapetheinferno-5.8-07_279
+    21300556: Escapetheinferno-5.8-07_280
+    21300558: Escapetheinferno-5.8-07_281
+    21300560: Escapetheinferno-5.8-07_282
+    21300562: Escapetheinferno-5.8-07_283
+    21300564: Escapetheinferno-5.8-07_284
+    21300566: Escapetheinferno-5.8-07_285
+    21300568: Escapetheinferno-5.8-07_286
+    21300570: Escapetheinferno-5.8-07_287
+    21300572: Escapetheinferno-5.8-07_288
+    21300574: Escapetheinferno-5.8-07_289
+    21300576: Escapetheinferno-5.8-07_290
+    21300578: Escapetheinferno-5.8-07_291
+    21300580: Escapetheinferno-5.8-07_292
+    21300582: Escapetheinferno-5.8-07_293
+    21300584: Escapetheinferno-5.8-07_294
+    21300586: Escapetheinferno-5.8-07_295
+    21300588: Escapetheinferno-5.8-07_296
+    21300590: Escapetheinferno-5.8-07_297
+    21300592: Escapetheinferno-5.8-07_298
+    21300594: Escapetheinferno-5.8-07_299
+    21300596: Escapetheinferno-5.8-07_300
+    21300598: Escapetheinferno-5.8-07_301
+    21300600: Escapetheinferno-5.8-07_302
+    21300602: Escapetheinferno-5.8-07_303
+    21300604: Escapetheinferno-5.8-07_304
+    21300606: Escapetheinferno-5.8-07_305
+    21300608: Escapetheinferno-5.8-07_306
+    21300610: Escapetheinferno-5.8-07_307
+    21300612: Escapetheinferno-5.8-07_308
+    21300614: Escapetheinferno-5.8-07_309
+    21300616: Escapetheinferno-5.8-07_310
+    21300618: Escapetheinferno-5.8-07_311
+    21300620: Escapetheinferno-5.8-07_312
+    21300622: Escapetheinferno-5.8-07_313
+    21300624: Escapetheinferno-5.8-07_314
+    21300626: Escapetheinferno-5.8-07_315
+    21300628: Escapetheinferno-5.8-07_316
+    21300630: Escapetheinferno-5.8-07_317
+    21300632: Escapetheinferno-5.8-07_318
+    21300634: Escapetheinferno-5.8-07_319
+    21300636: Escapetheinferno-5.8-07_320
+    21300638: Escapetheinferno-5.8-07_321
+    21300640: Escapetheinferno-5.8-07_322
+    21300642: Escapetheinferno-5.8-07_323
+    21300644: Escapetheinferno-5.8-07_324
+    21300646: Escapetheinferno-5.8-07_325
+    21300648: Escapetheinferno-5.8-07_326
+    21300650: Escapetheinferno-5.8-07_327
+    21300652: Escapetheinferno-5.8-07_328
+    21300654: Escapetheinferno-5.8-07_329
+    21300656: Escapetheinferno-5.8-07_330
+    21300658: Escapetheinferno-5.8-07_331
+    21300660: Escapetheinferno-5.8-07_332
+    21300662: Escapetheinferno-5.8-07_333
+    21300664: Escapetheinferno-5.8-07_334
+    21300666: Escapetheinferno-5.8-07_335
+    21300668: Escapetheinferno-5.8-07_336
+    21300670: Escapetheinferno-5.8-07_337
+    21300672: Escapetheinferno-5.8-07_338
+    21300674: Escapetheinferno-5.8-07_339
+    21300676: Escapetheinferno-5.8-07_340
+    21300678: Escapetheinferno-5.8-07_341
+    21300680: Escapetheinferno-5.8-07_342
+    21300682: Escapetheinferno-5.8-07_343
+    21300684: Escapetheinferno-5.8-07_344
+    21300686: Escapetheinferno-5.8-07_345
+    21300688: Escapetheinferno-5.8-07_346
+    21300690: Escapetheinferno-5.8-07_347
+    21300692: Escapetheinferno-5.8-07_348
+    21300694: Escapetheinferno-5.8-07_349
+    21300696: Escapetheinferno-5.8-07_350
+    21300698: Escapetheinferno-5.8-07_351
+    21300700: Escapetheinferno-5.8-07_352
+    21300702: Escapetheinferno-5.8-07_353
+    21300704: Escapetheinferno-5.8-07_354
+    21300706: Escapetheinferno-5.8-07_355
+    21300708: Escapetheinferno-5.8-07_356
+    21300710: Escapetheinferno-5.8-07_357
+    21300712: Escapetheinferno-5.8-07_358
+    21300714: Escapetheinferno-5.8-07_359
+    21300716: Escapetheinferno-5.8-07_360
+    21300718: Escapetheinferno-5.8-07_361
+    21300720: Escapetheinferno-5.8-07_362
+    21300722: Escapetheinferno-5.8-07_363
+    21300724: Escapetheinferno-5.8-07_364
+    21300726: Escapetheinferno-5.8-07_365
+    21300728: Escapetheinferno-5.8-07_366
+    21300730: Escapetheinferno-5.8-07_367
+    21300732: Escapetheinferno-5.8-07_368
+    21300734: Escapetheinferno-5.8-07_369
+    21300736: Escapetheinferno-5.8-07_370
+    21300738: Escapetheinferno-5.8-07_371
+    21300740: Escapetheinferno-5.8-07_372
+    21300742: Escapetheinferno-5.8-07_373
+    21300744: Escapetheinferno-5.8-07_374
+    21300746: Escapetheinferno-5.8-07_375
+    21300748: Escapetheinferno-5.8-07_376
+    21300750: Escapetheinferno-5.8-07_377
+    21300752: Escapetheinferno-5.8-07_378
+    21300754: Escapetheinferno-5.8-07_379
+    21300756: Escapetheinferno-5.8-07_380
+    21300758: Escapetheinferno-5.8-07_381
+    21300760: Escapetheinferno-5.8-07_382
+    21300762: Escapetheinferno-5.8-07_383
+    21300764: Escapetheinferno-5.8-07_384
+    21300766: Escapetheinferno-5.8-07_385
+    21300768: Escapetheinferno-5.8-07_386
+    21300770: Escapetheinferno-5.8-07_387
+    21300772: Escapetheinferno-5.8-07_388
+    21300774: Escapetheinferno-5.8-07_389
+    21300776: Escapetheinferno-5.8-07_390
+    21300778: Escapetheinferno-5.8-07_391
+    21300780: Escapetheinferno-5.8-07_392
+    21300782: Escapetheinferno-5.8-07_393
+    21300784: Escapetheinferno-5.8-07_394
+    21300786: Escapetheinferno-5.8-07_395
+    21300788: Escapetheinferno-5.8-07_396
+    21300790: Escapetheinferno-5.8-07_397
+    21300792: Escapetheinferno-5.8-07_398
+    21300794: Escapetheinferno-5.8-07_399
+    21300796: Escapetheinferno-5.8-07_400
+    21300798: Escapetheinferno-5.8-07_401
+    21300800: Escapetheinferno-5.8-07_402
+    21300802: Escapetheinferno-5.8-07_403
+    21300804: Escapetheinferno-5.8-07_404
+    21300806: Escapetheinferno-5.8-07_405
+    21300808: Escapetheinferno-5.8-07_406
+    21300810: Escapetheinferno-5.8-07_407
+    21300812: Escapetheinferno-5.8-07_408
+    21300814: Escapetheinferno-5.8-07_409
+    21300816: Escapetheinferno-5.8-07_410
+    21300818: Escapetheinferno-5.8-07_411
+    21300820: Escapetheinferno-5.8-07_412
+    21300822: Escapetheinferno-5.8-07_413
+    21300824: Escapetheinferno-5.8-07_414
+    21300826: Escapetheinferno-5.8-07_415
+    21300828: Escapetheinferno-5.8-07_416
+    21300830: Escapetheinferno-5.8-07_417
+    21300832: Escapetheinferno-5.8-07_418
+    21300834: Escapetheinferno-5.8-07_419
+    21300836: Escapetheinferno-5.8-07_420
+    21300838: Escapetheinferno-5.8-07_421
+    21300840: Escapetheinferno-5.8-07_422
+    21300842: Escapetheinferno-5.8-07_423
+    21300844: Escapetheinferno-5.8-07_424
+    21300846: Escapetheinferno-5.8-07_425
+    21300848: Escapetheinferno-5.8-07_426
+    21300850: Escapetheinferno-5.8-07_427
+    21300852: Escapetheinferno-5.8-07_428
+    21300854: Escapetheinferno-5.8-07_429
+    21300856: Escapetheinferno-5.8-07_430
+    21300858: Escapetheinferno-5.8-07_431
+    21300860: Escapetheinferno-5.8-07_432
+    21300862: Escapetheinferno-5.8-07_433
+    21300864: Escapetheinferno-5.8-07_434
+    21300866: Escapetheinferno-5.8-07_435
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2940
+        width: 243
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2944
+        width: 230
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2935
+        width: 230
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2936
+        width: 231
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_4
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2935
+        width: 235
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_5
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2934
+        width: 229
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_7
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 2890
+        width: 1050
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_8
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 222
+        width: 1809
+        height: 3005
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2640
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2600
+        width: 606
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_11
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 2642
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_13
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2621
+        width: 1417
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_14
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 2571
+        width: 1050
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2307
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_16
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2238
+        width: 319
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_17
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2238
+        width: 294
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_18
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2438
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_19
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 2238
+        width: 319
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_20
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2282
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_21
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2309
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_22
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2320
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_23
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 2323
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_24
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 2324
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_25
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 2321
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_26
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 2316
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_27
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 2306
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_28
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 2097
+        width: 514
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_29
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 2282
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_30
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 2299
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_31
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2292
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_32
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 2263
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_33
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 2274
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_34
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 2253
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_35
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 1270
+        width: 1123
+        height: 1110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_36
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 2242
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_37
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2231
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_38
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 2093
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_39
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 2075
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1742
+        width: 1807
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_41
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2056
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_42
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 2038
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_43
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1746
+        width: 516
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_44
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2019
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_45
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2001
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_46
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1977
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_47
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 1958
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_48
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1937
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_49
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 1919
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_50
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 1895
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_51
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 1877
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_52
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1852
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_53
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 1834
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_54
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1810
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_55
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 1788
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_56
+      rect:
+        serializedVersion: 2
+        x: 4373
+        y: 1607
+        width: 407
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_57
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1767
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_58
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 1746
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_59
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 1724
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_60
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1703
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_61
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1682
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_62
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 1661
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_63
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 1639
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_64
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 1616
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_65
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 1600
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_66
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1579
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_67
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1483
+        width: 368
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_68
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1281
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vc
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1062
+        width: 517
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_70
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 1561
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_71
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 1542
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_72
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 1523
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_73
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 1505
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_74
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1191
+        width: 897
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_75
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1370
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_76
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 1347
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_77
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 1359
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_78
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1329
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_79
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 1321
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_80
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 1339
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_81
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1313
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_82
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1301
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_83
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 1296
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_84
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 1307
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_85
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 1292
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_86
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 1287
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_87
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1285
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_88
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 1285
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_89
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1289
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_90
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 1033
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_91
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 1040
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_92
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 1044
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_93
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1044
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_94
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 1044
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_95
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1035
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_96
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1030
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_97
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 1012
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_98
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1023
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_99
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 1019
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_100
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1005
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_101
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 980
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_102
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 998
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_103
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 991
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_104
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 959
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_105
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 960
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_106
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 962
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_107
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 959
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_108
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 955
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_109
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 962
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_110
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 970
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_111
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 952
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_112
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 941
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_113
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 948
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_114
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 952
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_115
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 952
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_116
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 949
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_117
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 945
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_118
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 938
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_119
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 938
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_120
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 945
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_121
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 952
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_122
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 948
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_123
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 941
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_124
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 941
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_125
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 941
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_126
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 948
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_127
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 949
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_128
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 950
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_129
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 948
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_130
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 945
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_131
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 936
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_132
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 930
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_133
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 924
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_134
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 934
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_135
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 930
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_136
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 918
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_137
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 924
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_138
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 931
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_139
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 920
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_140
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 916
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_141
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 927
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_142
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 934
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_143
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 931
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_144
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 920
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_145
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 899
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_146
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 913
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_147
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 906
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_148
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 899
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_149
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 913
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_150
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 906
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_151
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 892
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_152
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 902
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_153
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 913
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_154
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 909
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_155
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 906
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_156
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 881
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_157
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 890
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_158
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 874
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_159
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 881
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_160
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 889
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_161
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 874
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_162
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 170
+        width: 981
+        height: 936
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_163
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 881
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_164
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 878
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_165
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 863
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_166
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 863
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_167
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 867
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_168
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 870
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_169
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 867
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_170
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 863
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_171
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 860
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_172
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 856
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_173
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 863
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_174
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 853
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_175
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 863
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_176
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 852
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_177
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 842
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_178
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 849
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_179
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 856
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_180
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 851
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_181
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 845
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_182
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 842
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_183
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 835
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_184
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 822
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_185
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 256
+        width: 677
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_186
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 817
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_187
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 839
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_188
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 835
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_189
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 835
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_190
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 821
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_191
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 697
+        width: 176
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_192
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 824
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_193
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 813
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_194
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 821
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_195
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 799
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_196
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 789
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_197
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 799
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_198
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 779
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_199
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 806
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_200
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 814
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_201
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 803
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_202
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 792
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_203
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 775
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_204
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 481
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_205
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 778
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_206
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 499
+        width: 313
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_207
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 789
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_208
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 775
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_209
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 790
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_210
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 780
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_211
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 750
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_212
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 746
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_213
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 764
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_214
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 753
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_215
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 484
+        width: 124
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_216
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 767
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_217
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 768
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_218
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 757
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_219
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 760
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_220
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 725
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_221
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 736
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_222
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 728
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_223
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 739
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_224
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 729
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_225
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 743
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_226
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 743
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_227
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 743
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_228
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 732
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_229
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 728
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_230
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 697
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_231
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 718
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_232
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 707
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_233
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 712
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_234
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 704
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_235
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 718
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_236
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 711
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_237
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 719
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_238
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 708
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_239
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 697
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_240
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 697
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_241
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 689
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_242
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 686
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_243
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 679
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_244
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 693
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_245
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 676
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_246
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 693
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_247
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 682
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_248
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 672
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_249
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 679
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_250
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 668
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_251
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 502
+        width: 93
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_252
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 666
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_253
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 668
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_254
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 658
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_255
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 661
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_256
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 643
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_257
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 658
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_258
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 647
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_259
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 658
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_260
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 652
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_261
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 640
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_262
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 643
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_263
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 643
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_264
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 636
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_265
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 626
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_266
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 629
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_267
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 626
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_268
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 619
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_269
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 633
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_270
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 624
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_271
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 615
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_272
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 615
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_273
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 604
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_274
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 601
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_275
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 601
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_276
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 615
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_277
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 611
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_278
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 605
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_279
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 594
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_280
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 587
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_281
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 594
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_282
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 583
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_283
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 573
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_284
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 576
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_285
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 587
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_286
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 576
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_287
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 594
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_288
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 580
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_289
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 558
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_290
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 573
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_291
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 562
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_292
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 562
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_293
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 569
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_294
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 555
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_295
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 562
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_296
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 530
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_297
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 512
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_298
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 521
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_299
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 544
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_300
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 551
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_301
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 538
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_302
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 544
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_303
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 544
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_304
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 525
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_305
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 516
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_306
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 526
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_307
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 516
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_308
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 512
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_309
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 519
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_310
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 530
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_311
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 505
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_312
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 502
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_313
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 491
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_314
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 502
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_315
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 491
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_316
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 495
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_317
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 509
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_318
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 496
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_319
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 477
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_320
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 473
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_321
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 484
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_322
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 466
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_323
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 481
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_324
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 473
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_325
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 470
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_326
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 480
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_327
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 470
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_328
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 480
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_329
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 473
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_330
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 484
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_331
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 463
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_332
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 452
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_333
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 440
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_334
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 459
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_335
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 449
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_336
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 449
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_337
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 442
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_338
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 427
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_339
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 441
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_340
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 431
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_341
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 420
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_342
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 435
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_343
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 406
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_344
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 417
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_345
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 421
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_346
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 406
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_347
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 397
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_348
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 406
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_349
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 385
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_350
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 388
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_351
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 378
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_352
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 382
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_353
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 392
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_354
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 374
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_355
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 393
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_356
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 389
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_357
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 378
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_358
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 371
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_359
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 392
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_360
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 382
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_361
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 376
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_362
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 381
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_363
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 363
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_364
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 371
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_365
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 363
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_366
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 360
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_367
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 367
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_368
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 374
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_369
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 364
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_370
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 360
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_371
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 342
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_372
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 368
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_373
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 363
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_374
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 354
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_375
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 346
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_376
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 360
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_377
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 356
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_378
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 356
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_379
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 356
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_380
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 357
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_381
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 353
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_382
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 356
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_383
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 346
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_384
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 351
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_385
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 357
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_386
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 349
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_387
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 346
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_388
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 353
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_389
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 328
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_390
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 335
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_391
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 340
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_392
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 339
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_393
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 337
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_394
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 339
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_395
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 340
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_396
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 346
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_397
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 342
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_398
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 335
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_399
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 332
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_400
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 335
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_401
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 339
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_402
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 332
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_403
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 314
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_404
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 321
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_405
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 321
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_406
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 332
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_407
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 332
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_408
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 311
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_409
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 300
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_410
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 290
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_411
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 296
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_412
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 307
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_413
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 303
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_414
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 293
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_415
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 282
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_416
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 276
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_417
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 272
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_418
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 271
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_419
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 271
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_420
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 275
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_421
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 279
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_422
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 286
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_423
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 285
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_424
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 269
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_425
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 278
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_426
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 257
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_427
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 247
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_428
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 252
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_429
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 264
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_430
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 240
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_431
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 236
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_432
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 236
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_433
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 236
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_434
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 238
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Escapetheinferno-5.8-07_435
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 241
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
