@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -14,6 +15,7 @@ public class GameController : MonoBehaviour {
 
     public GameObject panelP;
     public GameObject panelB;
+    public GameObject wallLeft, wallRight;
 
     void _MakeInstance()
     {
@@ -21,6 +23,15 @@ public class GameController : MonoBehaviour {
         {
             instance = this;
         }
+    }
+
+    private void Start()
+    {
+        Vector3 leftEdge = Camera.main.ScreenToWorldPoint(new Vector3(0, Screen.height / 2, Camera.main.nearClipPlane));
+        Vector3 rightEdge = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height / 2, Camera.main.nearClipPlane));
+
+        wallLeft.transform.position = new Vector3(leftEdge.x-0.4f, wallLeft.transform.position.y, wallLeft.transform.position.z);
+        wallRight.transform.position = new Vector3(rightEdge.x -0.3f, wallRight.transform.position.y, wallRight.transform.position.z);
     }
 
     void Awake()

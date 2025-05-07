@@ -120,11 +120,11 @@ public class BirdController : MonoBehaviour {
                 audio.PlayOneShot(fly);
                 if (R == true)
                 {
-                    myBody.velocity = new Vector2(3,5f);
+                    myBody.linearVelocity = new Vector2(3,5f);
                 }
                 if(L == true)
                 {
-                    myBody.velocity = new Vector2(-3,5f);
+                    myBody.linearVelocity = new Vector2(-3,5f);
                 }
                 anim.SetTrigger("normal");
             }
